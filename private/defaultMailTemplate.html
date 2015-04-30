@@ -1,0 +1,8 @@
+Helo {{data.username}}, <br>
+<br>
+
+
+{{#each items}}
+    <hr>
+    {{> Template.dynamic template=data.template data=.}}
+{{/each}}
