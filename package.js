@@ -14,11 +14,10 @@ Package.onUse(function (api) {
         'check',
         'templating',
         'underscore',
-        'vazco:universe-core',
-        'vazco:universe-core-plugin',
-        'anti:i18n',
-        'aldeed:simple-schema',
-        'meteorhacks:ssr',
+        'vazco:universe-core@1.6.7',
+        'vazco:universe-core-plugin@0.0.0',
+        'aldeed:simple-schema@1.3.2',
+        'meteorhacks:ssr@2.1.2',
         'percolate:synced-cron@1.2.0',
         'email'
     ], ['server']);
