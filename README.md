@@ -2,7 +2,7 @@
 
 ## Idea
 
-We want to group emails into once, and send it one in a period of time (choosed by user).
+We want to group emails into onc, and send it once in a period of time (choosed by user).
 To do this we create newsletter stream and when some event occurs, then we add
 an item to this stream. This item contains data necessary to render some part of an email.
 User have to subscribe to this stream.

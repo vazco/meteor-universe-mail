@@ -3,7 +3,8 @@
 Package.describe({
     name: 'vazco:universe-mail',
     summary: 'Send emails periodically, grouped in one template',
-    version: '0.0.1'
+    version: '0.0.1',
+    git: 'https://github.com/vazco/meteor-universe-mail.git'
 });
 
 Package.onUse(function (api) {
