@@ -255,7 +255,7 @@ or use methods api to run tasks on demand:
         Meteor.call('UniMail.queueTask');
         Meteor.call('UniMail.sendTask');
 
-### License
+## License
 
 <img src="https://vazco.eu/banner.png" align="right">
 
