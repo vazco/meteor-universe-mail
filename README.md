@@ -1,4 +1,14 @@
-# Mails for Universe
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe Mail
+</h1>
+
+&nbsp;
+
+<h3 align="center">
+  -- Abandonware. This package is deprecated! --
+</h3>
+
+&nbsp;
 
 ## Idea
 
@@ -244,3 +254,9 @@ or use methods api to run tasks on demand:
 
         Meteor.call('UniMail.queueTask');
         Meteor.call('UniMail.sendTask');
+
+### License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe Mail is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
